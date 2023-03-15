@@ -1,0 +1,22 @@
+{
+  "name": "activity-algorithm",
+  "version": "1.0.0",
+  "description": "activity for algorithm class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titus-chin/activity-algorithm.git"
+  },
+  "author": "titus-chin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titus-chin/activity-algorithm/issues"
+  },
+  "homepage": "https://github.com/titus-chin/activity-algorithm#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
